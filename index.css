@@ -8,7 +8,6 @@ body {
     text-align: center;
     font-family: 'Inter', sans-serif;
     background: #1F2937;
-    min-height: 100vh;
 }
 
 
@@ -21,7 +20,7 @@ body {
 }
 
 #container-blue h1{
-    font-size: 3rem;
+    font-size: 2rem;
     font-weight: 800;
    margin-top: 0px;
    padding-top: 30px;
@@ -31,8 +30,8 @@ body {
 #container-blue input{
     border: 3px solid #B295FF;
     border-radius: 5px;
-    width: 9.5rem;
-    height: 6.5rem;
+    width: 125px;
+    height: 95px;
     background-color: #6943FF;
     margin-top: 5px;
     text-align: center;
@@ -51,7 +50,7 @@ body {
    border-radius: 5px;
    border: none;
    margin-top: 35px;
-   font-size: 2rem;
+   font-size: 1.5rem;
    font-weight: 500;
    margin-bottom: 2.5rem;
    padding: 10px 25px;
@@ -73,14 +72,14 @@ body {
 #container-dark .units{
     padding-top: 30px;
    
-    font-size: 2.5rem;
+    font-size: 1.5rem;
     color: #CCC1FF;
     font-weight: 600;
 
 }
 
 #container-dark .converted{
-    font-size: 1.5rem;
+    font-size: 1rem;
     color:#FFFFFF;
     font-weight: 400;
      padding-bottom: 20px;
